@@ -1,2 +1,2 @@
 # django_projects
-All my web apps and Django projects 
+All my web apps and Django projects
